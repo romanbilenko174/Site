@@ -1,0 +1,46 @@
+#delivery{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+#instore{
+	display: flex;
+	justify-content: flex-start;
+	align-items: flex-start;
+flex-direction: column;
+width:45%;
+}
+#courier{
+		display: flex;
+		justify-content: flex-start;
+	align-items: flex-start;
+flex-direction: column;
+width:45%;
+}
+#paymentinfo{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	 flex-wrap: wrap;
+}
+#cash{
+	display: flex;
+	justify-content: flex-start;
+	align-items: flex-start;
+flex-direction: column;
+width:45%;
+}
+#bankpayment{
+		display: flex;
+		justify-content: flex-start;
+	align-items: flex-start;
+flex-direction: column;
+width:45%;
+}
+#card{
+		display: flex;
+		justify-content: flex-start;
+	align-items: flex-start;
+flex-direction: column;
+width:45%;
+}

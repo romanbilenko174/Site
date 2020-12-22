@@ -1,0 +1,37 @@
+#actions{
+	display:flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	margin-top:30px;
+}
+#actiondata{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin-right:30px;
+	margin-bottom: 50px;
+	width:40%;
+}
+#actionimg{
+	width:300px;
+	height:300px;
+}
+#more{
+	text-decoration: none;
+	color:#002b65;
+}
+#actiontitle{
+	text-align: center;
+	width:100%;
+}
+#actionview{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+#actionviewdata{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}

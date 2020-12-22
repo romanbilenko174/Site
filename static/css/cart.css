@@ -1,0 +1,29 @@
+#cartprod{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	text-align:center;
+}
+#order{
+	display: flex;
+	justify-content: center;
+	text-decoration: none;
+	color:#0ca3d2;
+}
+#orderback{
+	display: flex;
+	justify-content: center;
+	text-decoration: none;
+	color:#0ca3d2;
+}
+#guestcenter{
+	text-align: center;
+}
+#guestlinks{
+	color:#0ca3d2;
+	text-decoration: none;
+}
+#guestlinks:hover{
+	color:#00ff81;
+}

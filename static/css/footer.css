@@ -1,0 +1,45 @@
+.footer-left{
+		display:flex;
+ 		justify-content: space-around;
+}
+#part1{
+	margin-right: 2%;
+}
+#part2{
+	margin-right: 2%;
+}
+.footer-left a{
+	text-decoration: none;
+	color:#22b0b0;
+}
+#main-topic{
+	font-size:120%;
+}
+#payment{
+	display:flex;
+	flex-direction: column;
+	align-items: center;
+ 	color:white;
+
+}
+#footer-text{
+	margin:auto;
+	color:white;
+	text-align: center;
+}
+#footer{
+	background-color: #474040;
+	display:flex
+	flex-direction:column;
+	align-items: flex-end;
+	justify-content: flex-end;
+}
+#visa{
+	display:flex;
+}
+#mastercard{
+	display:flex;
+}
+#copyright{
+	text-align: center;
+}

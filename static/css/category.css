@@ -1,0 +1,17 @@
+#prob{
+	margin-top:2%;
+}
+#pagination{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	text-decoration: none;
+	color:#fff;
+}
+.productimg{
+	width:300px;
+	height: 300px;
+}
+.pagitem{
+	color:blue;
+}
